@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QRCodeDemo</string>
+    <string name="title_activity_test_scan">TestScanActivity</string>
+    <string name="zxing_bar_name">ZxingLib</string>
+</resources>
